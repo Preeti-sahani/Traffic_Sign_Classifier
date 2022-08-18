@@ -5,3 +5,17 @@ But to achieve level 5 autonomous, it is necessary for vehicles to understand an
 
 In the world of Artificial Intelligence and advancement in technologies, many researchers and big companies like Tesla, Uber, Google, Mercedes-Benz, Toyota, Ford, Audi, etc are working on autonomous vehicles and self-driving cars. 
 So, for achieving accuracy in this technology, the vehicles should be able to interpret traffic signs and make decisions accordingly.
+
+
+The overall aim is to develop a system that can be used for traffic sign inventory.
+This system can assist local or national authorities in the task of maintaining and updating
+their road and traffic signs by automatically detecting and classifying one or more traffic
+signs from a complex scene when captured by acamera from a vehicle.
+
+
+# About the Python Project
+In this Python project, we build a deep neural network model that can classify traffic signs present in the image into different categories. 
+With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles.
+
+
+
