@@ -15,4 +15,8 @@ With this model, we are able to read and understand traffic signs which are a ve
 # Dataset 
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
+# Result 
+![image](https://user-images.githubusercontent.com/84913669/186644823-ca4a6875-49fc-43aa-975c-dd65122352cc.png)
+
+
 
