@@ -11,7 +11,6 @@ So, for achieving accuracy in this technology, the vehicles should be able to in
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 # Result 
-![image](https://user-images.githubusercontent.com/84913669/186644823-ca4a6875-49fc-43aa-975c-dd65122352cc.png)
-
+![image](https://user-images.githubusercontent.com/84913669/188360203-f5b081f7-e790-4440-9823-6180b4dc0b34.png)
 
 
